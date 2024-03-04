@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://deqarwaebo4ho"]
+
+[ext_resource type="Script" path="res://scripts/ui/ui_root.gd" id="1_lj68o"]
+
+[node name="UIRoot" type="Node2D"]
+script = ExtResource("1_lj68o")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+scale = Vector2(222.618, 272.61)
+anchor_mode = 0

@@ -1,0 +1,12 @@
+- Make movement in the air harder than on the floor
+- Make the weapon follow the movement of weapon cursor
+- Add parkour elements:
+	- Wall run
+	- Wall jump
+	- Ledge hanging
+	- Climbable surface
+	- Ledge vaulting
+	- Sliding
+- Add health 
+- Add stamina
+- Add a static enemy
